@@ -1,0 +1,162 @@
+/******************************************Tag Selectors******************************************/
+p{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: 'Gelasio', serif;
+  font-size: 18px;
+}
+
+h1{
+  color: #0f4c75;
+}
+h2{
+  color: #0f4c75;
+
+
+}
+h3{
+  color: #3282b8;
+  margin: 0;
+}
+body{
+  margin:0;
+  text-align: center;
+}
+a{
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 20px;
+}
+a:link {
+  color: #3282b8;
+}
+
+/* visited link */
+a:visited {
+  color: #3282b8;
+}
+
+/* mouse over link             color: #413c69;*/
+a:hover {
+  color: #0f4c75;
+}
+
+/* selected link */
+a:active {
+  color: #3282b8;
+}
+
+/******************************************Class Selectors******************************************/
+.vignesh{
+  margin:0;
+  font-family: 'Leckerli One', cursive;
+  font-size: 500%;
+  color: #0f4c75;
+}
+.grayhr{
+  border-style: dotted none none;
+  border-color: #3282b8;
+  border-width: 5px;
+  margin: 100px auto;
+  height: 0;
+  width: 3%;
+}
+.top-cont{
+  background-color: #b2dffb;
+  width: 100%;
+  position: relative;
+  padding-top: 200px;
+  margin: 0;
+}
+.prog{
+  margin: 0;
+  padding-top:  20px;
+  border: 0;
+  font-family: 'Alata', sans-serif;
+  font-size: 250%;
+  color: #0f4c75;
+}
+.middle-cont{
+  background-color: #d3f4ff;
+  padding-bottom: 50px;
+}
+.skill-row{
+  width: 50%;
+  margin: 0 auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.profile{
+  width: 50%;
+  margin: 0 auto 0 auto;
+  text-align: justify;
+  line-height: 2;
+}
+.desc{
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  line-height: 2;
+}
+.dp{
+  border-radius: 10%;
+  width: 20%;
+  margin-top: 50px;
+}
+.nn{
+  width: 30%;
+  height: 30%;
+  float: left;
+}
+.ar{
+  width: 30%;
+  height: 30%;
+  float: right;
+
+}
+
+.bottom-cont{
+  background-color: #b2dffb;
+  padding: 20px;
+}
+.mountain{
+width: 100%;
+opacity: 0.6;
+}
+.cloud1{
+  width: 20%;
+  position: absolute;
+  right: 15%;
+  top: 10% ;
+}
+.cloud2{
+  width: 20%;
+  position: absolute;
+  left: 15%;
+  bottom: 40%;
+}
+.btn{
+  display: inline-block;
+  background-color:  #3282b8;
+  padding: 10px;
+  border-radius: 5%;
+  text-decoration: none;
+}
+.contact{
+  color: white;
+}
+.contact:hover{
+  color: #d3f4ff;
+}
+.footer{
+  padding: 10px;
+  margin: 10px;
+  text-decoration: none;
+}
+
+.copyright{
+  padding: 30px;
+  color: grey;
+  font-size: 14px;
+}
